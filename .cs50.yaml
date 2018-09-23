@@ -1,1 +1,4 @@
 lab50: true
+  files:
+      - !include 0_help50.c
+      - !include 1_eprintf.c
